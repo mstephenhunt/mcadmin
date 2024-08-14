@@ -1,0 +1,32 @@
+[2024-08-12 14:14:35:494 INFO] Player connected: MashooHunch, xuid: 2535438273488214
+[2024-08-12 14:15:35:494 INFO] Player Spawned: MashooHunch xuid: 2535438273488214, pfid: a5747d3d958c5016
+[2024-08-12 14:16:35:494 INFO] Player disconnected: MashooHunch, xuid: 2535438273488214, pfid: a5747d3d958c5016undefined
+
+[2024-08-14 14:14:35:494 INFO] Starting Server
+[2024-08-14 14:14:35:494 INFO] Version: 1.21.3.01
+[2024-08-14 14:14:35:494 INFO] Session ID: d144ee48-372b-4387-b9bb-74fda23213cf
+[2024-08-14 14:14:35:494 INFO] Build ID: 26164172
+[2024-08-14 14:14:35:494 INFO] Branch: r/21
+[2024-08-14 14:14:35:495 INFO] Commit ID: 60bf22dee81e74537e6397c11c0fbce219ca99d2
+[2024-08-14 14:14:35:495 INFO] Configuration: Publish
+[2024-08-14 14:14:35:495 INFO] Level Name: Bedrock level
+[2024-08-14 14:14:35:504 INFO] No CDN config file found for dedicated server
+[2024-08-14 14:14:35:504 INFO] Game mode: 0 Survival
+[2024-08-14 14:14:35:504 INFO] Difficulty: 1 EASY
+[2024-08-14 14:14:35:505 INFO] Content logging to console is enabled.
+[2024-08-14 14:14:35:884 INFO] Content logging to disk is enabled. Writing log to: ContentLog2024-08-14_14-14-35
+[2024-08-14 14:14:35:884 INFO] Opening level 'worlds/Bedrock level/db'
+[2024-08-14 14:14:36:132 INFO] [Packs] [SERVER] Pack Stack
+
+
+[2024-08-14 14:14:36:753 INFO] IPv4 supported, port: 19132: Used for gameplay and LAN discovery
+[2024-08-14 14:14:36:753 INFO] IPv6 supported, port: 19133: Used for gameplay
+[2024-08-14 14:14:36:761 INFO] Server started.
+[2024-08-14 14:14:36:761 INFO] ================ TELEMETRY MESSAGE ===================
+[2024-08-14 14:14:36:761 INFO] Server Telemetry is currently not enabled. 
+[2024-08-14 14:14:36:762 INFO] Enabling this telemetry helps us improve the game.
+[2024-08-14 14:14:36:762 INFO] 
+[2024-08-14 14:14:36:762 INFO] To enable this feature, add the line 'emit-server-telemetry=true'
+[2024-08-14 14:14:36:762 INFO] to the server.properties file in the handheld/src-server directory
+[2024-08-14 14:14:36:762 INFO] ======================================================
+[2024-08-14 14:14:36:762 INFO] [Scripting] No script plugins found.
